@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://bala:encryption7@cluster0-wfekj.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://bala:encryption7@cluster0-wfekj.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretTokenformyapplication"
 }
